@@ -9,9 +9,8 @@ parallel-jobs = 2
 [YouTube-Extended-kitadai31-android6-7]
 app-name = "YouTube Extended"
 version = "17.34.36"
-patches-source = "kitadai31/revanced-patches-android6-7"
-integrations-source = "kitadai31/revanced-integrations"
-cli-source = "kitadai31/revanced-cli"
+patches-source = "kitadai31/revanced-patches-android6-7" 
+cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
 build-mode = "apk"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
